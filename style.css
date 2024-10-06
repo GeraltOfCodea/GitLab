@@ -1,0 +1,26 @@
+/* Apply a background color to the entire body */
+body {
+    background-color: #e1d7f3; /* Light purple background */
+    font-family: Arial, sans-serif;
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Style for blockquote */
+blockquote {
+    font-style: italic;
+    background-color: #f1e1e1;
+    border-left: 5px solid #333;
+    margin: 20px;
+    padding: 10px 20px;
+    color: #555;
+}
